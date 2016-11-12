@@ -1,0 +1,20 @@
+(S
+  (NP
+    (NNP James)
+  )
+  (VP
+    (VBZ is)
+    (NP
+        (NP
+            (DT a)
+            (NN boy)
+        )
+        (VP
+            (VBG eating)
+            (NP
+                (NNS sausages)
+            )
+        )
+    )
+  )
+)
